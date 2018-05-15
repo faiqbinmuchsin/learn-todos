@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-This is my base app for learning [redux](https://redux.js.org/).
+todos app using [redux](https://redux.js.org/) and [redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension).
 
 ### `yarn`
 
